@@ -1,0 +1,6 @@
+{
+  "name": "CineCam Pro",
+  "description": "Professional cinema manual video recording application mirroring Blackmagic Camera with Camera2 manual controls, OpenGL ES focus peaking, false color, zebra stripes, histogram, and high bitrate HEVC encoding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
